@@ -1,5 +1,10 @@
-## Hi there 👋
+## Boas vindas ao meu perfil! 💕
 
+• Estou estudando no Alura.
+
+• Estou me desenvolvendo na linguagem JavaScript.
+
+• Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 <!--
 **00001114993074sp/00001114993074sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
